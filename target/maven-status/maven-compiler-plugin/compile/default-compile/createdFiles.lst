@@ -1,0 +1,6 @@
+com\lens\springio\self\catmarks\Cat.class
+com\lens\springio\self\catmarks\CatRestController.class
+com\lens\springio\self\catmarks\UserRepository.class
+com\lens\springio\self\catmarks\CatmarksApplication.class
+com\lens\springio\self\catmarks\CatRepository.class
+com\lens\springio\self\catmarks\User.class
